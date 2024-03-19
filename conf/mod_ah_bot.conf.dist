@@ -1,1 +1,13 @@
 [worldserver]
+
+########################################
+# Auction House Bot configuration
+########################################
+#
+#    AuctionHouseBot.Enable
+#        Description: Enable Auction House Bot
+#        Default:     0 - Disabled
+#                         1 - Enabled
+#
+
+AuctionHouseBot.Enable = 1
